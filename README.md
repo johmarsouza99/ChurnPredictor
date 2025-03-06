@@ -14,13 +14,13 @@ Este projeto tem como objetivo analisar dados de clientes de uma empresa de tele
 
 📂 project/
 
-│── 📁 data/            # Contém os dados brutos e processados
-│── 📁 models/          # Armazena os modelos treinados
-│── 📁 notebooks/       # Notebooks para análise exploratória e visualizações
-│── 📁 scripts/         # Scripts para pré-processamento e treinamento dos modelos
-│── 📄 README.md        # Documentação do projeto
-│── 📄 requirements.txt # Lista de dependências necessárias
-│── 📄 main.py          # Script principal para execução do pipeline
+ │── 📁 data/            # Contém os dados brutos e processados
+ │── 📁 models/          # Armazena os modelos treinados
+ │── 📁 notebooks/       # Notebooks para análise exploratória e visualizações
+ │── 📁 scripts/         # Scripts para pré-processamento e treinamento dos modelos
+ │── 📄 README.md        # Documentação do projeto
+ │── 📄 requirements.txt # Lista de dependências necessárias
+ │── 📄 main.py          # Script principal para execução do pipeline
 
 
 ---
