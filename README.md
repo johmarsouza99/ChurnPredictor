@@ -13,6 +13,7 @@ Este projeto tem como objetivo analisar dados de clientes de uma empresa de tele
 ## 📂 Estrutura do Projeto
 
 📂 project/
+
 │── 📁 data/            # Contém os dados brutos e processados
 │── 📁 models/          # Armazena os modelos treinados
 │── 📁 notebooks/       # Notebooks para análise exploratória e visualizações
